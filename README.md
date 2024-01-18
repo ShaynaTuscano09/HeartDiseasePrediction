@@ -49,7 +49,7 @@ The primary goal is to create a machine learning model capable of accurately pre
 - Notable improvement in model accuracy post-hyperparameter tuning.
 
 
-![Project GIF]([https://example.com/your-gif.gif](https://assets-global.website-files.com/5da60733afec9db1fb998273/63eeeb6e74143b75dcab6ff3_HealthFundraising_Blog_Header.gif)https://assets-global.website-files.com/5da60733afec9db1fb998273/63eeeb6e74143b75dcab6ff3_HealthFundraising_Blog_Header.gif)
+
 
 
 
